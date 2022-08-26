@@ -268,12 +268,16 @@ b {
   background: #e12121;
 }
 
+.content-about-skills-wrapper-sections #nodeJs .option {
+  background: #00de60;
+}
+
 .content-about-skills-wrapper-sections_section {
   cursor: pointer;
 }
 
 .content-about-skills-wrapper-sections_section .option {
-  width: 15vw;
+  width: 14vw;
   height: 15vh;
   font-size: 1vw;
   font-weight: normal;

@@ -223,10 +223,15 @@ b{
                         background: rgb(225, 33, 33);
                     }
                 }
+                #nodeJs{
+                    .option{
+                        background: rgb(0, 222, 96);
+                    }
+                }
                 &_section{
                     cursor: pointer;
                     .option{
-                        width: 15vw;
+                        width: 14vw;
                         height: 15vh;
 
                         font-size: 1vw;
